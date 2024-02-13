@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/filmnet/static/css/main.ccfd3975.css",
-    "main.js": "/filmnet/static/js/main.6a73d7dd.js",
+    "main.js": "/filmnet/static/js/main.9f8f1b05.js",
     "static/js/592.71e87a95.chunk.js": "/filmnet/static/js/592.71e87a95.chunk.js",
     "index.html": "/filmnet/index.html",
     "static/media/search.svg": "/filmnet/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
     "main.ccfd3975.css.map": "/filmnet/static/css/main.ccfd3975.css.map",
-    "main.6a73d7dd.js.map": "/filmnet/static/js/main.6a73d7dd.js.map",
+    "main.9f8f1b05.js.map": "/filmnet/static/js/main.9f8f1b05.js.map",
     "592.71e87a95.chunk.js.map": "/filmnet/static/js/592.71e87a95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfd3975.css",
-    "static/js/main.6a73d7dd.js"
+    "static/js/main.9f8f1b05.js"
   ]
 }
